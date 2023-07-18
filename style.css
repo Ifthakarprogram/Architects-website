@@ -208,6 +208,8 @@ main{
 .features-content > h2{
     max-width:400px;
     margin-top: 0px;
+    border-left: 5px solid #FF900E;
+    padding: 20px;
 }
 .ten-year-badge{
     width: 330px;
@@ -350,6 +352,11 @@ main{
     color:  #424242;
     font-size: 15px;
     font-weight: 400;
+}
+.features-content > h2{
+   margin-left: 10px;
+    border-left: 5px solid #FF900E;
+    padding: 20px;
 }
 }
 
